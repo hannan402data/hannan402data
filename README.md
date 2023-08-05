@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ansari Abdul Hannan.
 - 👀 I’m interested in Data Science field
-- 🌱 I’m currently learning/pursuing Bachelor's degree in Computer Science
-Second Year BCS.
+- 🌱 I have completed Bachelors of Science in Computer Science
 - 💞️ I’m looking to collaborate on python Data Science projects
 
 <!---
