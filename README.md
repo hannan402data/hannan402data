@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ansari Abdul Hannan.
-- 👀 I’m interested in Data Science field
-- 🌱 I have completed Bachelors of Science in Computer Science
-- 💞️ I’m looking to collaborate on python Data Science projects
+- 🌱 I have completed my Bachelors of Science in Computer Science from University of Mumbai
+- 💞️ I’m looking forward to collaborate on python Data Science projects and many more...
 
 <!---
 hannan402data/hannan402data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
